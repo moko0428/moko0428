@@ -4,7 +4,7 @@
 <p align="center">
     <p align="center">
     👍<br><br>
-    <a href="https://https://www.instagram.com/feb.25jy/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+    <a href="https://www.instagram.com/feb.25jy/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <br><br>
 📧<br>ljun925@naver.com<br>
 </p>
