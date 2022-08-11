@@ -23,8 +23,9 @@ ljun925@naver.com
 <br>
 
 <div align=center>
-
+<!--
 ![moko0428's github stats](https://github-readme-stats.vercel.app/api?username=moko0428&show_icons=true)
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:DAA520, 100:654ea3&height=170&section=footer">
 </div>
+-->
