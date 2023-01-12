@@ -16,7 +16,7 @@
   SNS 👍<br><br>
 <a href="https://www.instagram.com/feb.25jy/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" /></a>
 <br><br>
-email 📧<br>
+contact 📧<br>
 ljun925@naver.com
 <br>
 </div>
