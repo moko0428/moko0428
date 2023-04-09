@@ -6,7 +6,7 @@
  🛠️<b>MY TECH SKILLS</b>🛠️
  <br><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,vscode,firebase" /> <br>
+    <img src="https://skillicons.dev/icons?i=js,vscode,firebase" /> <br>
     <img src="https://skillicons.dev/icons?i=react,nodejs,github,sass,next,typescript" />
   </a>
 </p>
