@@ -7,7 +7,7 @@
  <br><br>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,vscode,firebase" /> <br>
-    <img src="https://skillicons.dev/icons?i=react,nodejs,github,sass,next,typescript" />
+    <img src="https://skillicons.dev/icons?i=react,github,next,typescript" />
   </a>
 </p>
  
