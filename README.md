@@ -19,7 +19,14 @@ ljun925@naver.com <br><br>
 <br>
 </div>
 <br>
-
+<div align="middle">
+      <h4>✍🏻 내 공부 기록</h4>
+     <a href="https://receptive-crater-2a7.notion.site/4fa5da77f894430dadc003ebe027cf74">
+          <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/></a> 
+     <br><br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=moko0428&show_icons=true&theme=rose_pine">
+     <br>
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moko0428&layout=compact&theme=rose_pine"><br><br> 
 <div align=center>
 <!-- 
 ![moko0428's github stats](https://github-readme-stats.vercel.app/api?username=moko0428&show_icons=true)
