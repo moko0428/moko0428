@@ -15,7 +15,6 @@
 <div align="center">
 contact 📧<br>
 ljun925@naver.com <br><br>
-<a href="https://www.instagram.com/feb.25jy/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" /></a>
 <br>
 </div>
 <br>
